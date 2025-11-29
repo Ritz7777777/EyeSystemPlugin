@@ -1,0 +1,13 @@
+name: EyeSystem
+version: 1.0.0
+main: com.youreyesystem.EyeSystemPlugin
+api-version: "1.21"
+author: YourName
+description: Immersive eye-based ability system for Minecraft
+commands:
+  eye:
+    description: Manage your eye abilities
+    usage: /eye [select|info]
+  ability:
+    description: Use your eye ability
+    usage: /ability

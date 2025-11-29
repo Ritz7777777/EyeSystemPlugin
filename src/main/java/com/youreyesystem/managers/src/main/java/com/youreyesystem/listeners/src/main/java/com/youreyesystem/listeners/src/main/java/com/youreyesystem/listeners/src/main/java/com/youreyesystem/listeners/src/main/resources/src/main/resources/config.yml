@@ -1,0 +1,19 @@
+# Eye System Configuration
+eye-system:
+  drop-rates:
+    zombie: 0.15
+    skeleton: 0.12
+    creeper: 0.20
+    enderman: 0.25
+    wither-skeleton: 0.30
+    blaze: 0.18
+    warden: 0.50
+  
+  abilities:
+    cooldown-multiplier: 1.0
+    damage-multiplier: 1.0
+    enable-pvp: true
+    
+  ui:
+    show-action-bar: true
+    show-cooldown-display: true
